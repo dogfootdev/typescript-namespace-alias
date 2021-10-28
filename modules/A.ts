@@ -5,3 +5,5 @@ namespace A {
     }
   }
 }
+
+export default A;
